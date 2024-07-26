@@ -14,12 +14,12 @@ body {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color:blueviolet;
+    background-color: #007BFF;
     color: white;
     transition: background-color 0.3s ease;
 }
 
 #colorButton:hover {
-    background-color: blue;
+    background-color: #0056b3;
 }
 
